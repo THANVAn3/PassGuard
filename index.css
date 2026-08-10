@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    background-color: #fdfaf6;
+    color: #2c2926;
+  }
+
+  h1, h2, h3, .font-serif-natural {
+    font-family: 'Fraunces', serif;
+  }
+
+  code, pre, .font-mono {
+    font-family: 'JetBrains Mono', monospace;
+  }
+}
+
+/* Natural Tones Custom Color Classes */
+.bg-natural-parchment {
+  background-color: #fdfaf6;
+}
+
+.bg-natural-sand {
+  background-color: #f4f1ea;
+}
+
+.bg-natural-stone {
+  background-color: #e5e1da;
+}
+
+.bg-natural-olive {
+  background-color: #5A5A40;
+}
+
+.text-natural-olive {
+  color: #5A5A40;
+}
+
+.border-natural-earth {
+  border-color: #e5e1da;
+}
+
+.border-natural-soft {
+  border-color: #f0ede8;
+}
+
+.text-natural-muted {
+  color: #7a746e;
+}
+
+.text-natural-dark {
+  color: #2c2926;
+}
+
