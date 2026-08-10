@@ -1,0 +1,6 @@
+{
+  "name": "Password Strength Analyzer",
+  "description": "Evaluate password strength with real-time entropy calculation, pattern analysis, estimated crack times, password generation, and password history reuse checking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
